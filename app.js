@@ -21,6 +21,7 @@ function agregarAmigo() {
     limpiarCampo();
     
     console.log(amigos) ;
+    mostrarLista();
     //alert("click desde el botom");
 }
 function limpiarCampo(){
